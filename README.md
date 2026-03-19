@@ -38,13 +38,21 @@ switch2.
 •  Screw the accessories on the board and switch on the supply.
 •  Circuit is tested for all possible combination of switch positions.
 
+Theory:
+<img width="1204" height="1600" alt="image" src="https://github.com/user-attachments/assets/3e08bdfb-b984-42dc-b1c0-d7d80571610b" />
+
 
 Direct connection: CIRCUIT DIAGRAM: 
+<img width="972" height="395" alt="image" src="https://github.com/user-attachments/assets/bd6e7441-1c2d-4728-8f29-c5949ab323f7" />
+
 Tabulation:1
+<img width="876" height="1388" alt="image" src="https://github.com/user-attachments/assets/664ec03c-08d2-4701-b2e8-e9a404903406" />
 	
 Cross connection: CIRCUIT DIAGRAM:
+<img width="942" height="399" alt="image" src="https://github.com/user-attachments/assets/21a8fb2a-c4bd-4244-b1aa-a20101305cac" />
 
 Tabulation:2
+<img width="878" height="1418" alt="image" src="https://github.com/user-attachments/assets/bf77d6d6-6474-49c4-ab53-92291d4094b3" />
 
 RESULT:
 Thus the staircase wiring is connected and tested.
